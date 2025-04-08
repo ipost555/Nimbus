@@ -1,3 +1,5 @@
+## IMPORTANT: I forgot about this project, i'm unsure if it even still works.
+
 # Nimbus: The Safest Way to Sideload Apps onto Your Meta Quest
 
 Nimbus is a powerful and secure tool designed to provide the safest and most efficient method for sideloading apps onto your Meta Quest. Whether you're a developer looking to test custom applications or a user interested in exploring new experiences outside of the official store, Nimbus ensures that your sideloading process is seamless, reliable, and risk-free.
@@ -57,8 +59,4 @@ To contribute:
 ---
 
 **Note:** Always ensure that you're only sideloading trusted apps to minimize any security risks to your device.
-
-## Contact
-
-If you have any questions or need support, feel free to open an issue or contact us directly via [your contact info].
 
